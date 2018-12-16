@@ -1,0 +1,29 @@
+{
+  "name": "nodeapps",
+  "version": "1.0.0",
+  "description": "This first node project",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "mysql": "^2.16.0",
+    "req-flash": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeProj"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kunal",
+  "license": "ISC"
+}
